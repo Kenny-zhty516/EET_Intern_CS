@@ -6,6 +6,7 @@ from settings import Settings
 from ship import Ship
 import game_functions as gf
 from pygame.sprite import Group
+#hi
 
 def run_game():
  # Initialize game and create a screen object.
